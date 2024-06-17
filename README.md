@@ -1,4 +1,4 @@
-# StoreDataToDatabase.github
+# PHP-Store-Data-To-sql-Database.github
 
 This PHP script handles form data submission and stores it in a MySQL database. It establishes a connection to the database using PDO (PHP Data Objects) and securely inserts the form data into the specified table. The script begins by defining database connection parameters such as server name, username, password, and database name. Then, it retrieves form data using the $_POST superglobal and assigns it to variables. 
 
